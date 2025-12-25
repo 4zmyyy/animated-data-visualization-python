@@ -1,4 +1,4 @@
-# animated-data-visualization-python
+# animated data visualization python
 
 End-to-end data visualization project using Python.
 
